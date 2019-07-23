@@ -16,5 +16,5 @@ analyze project:
   script:
    - sonar-scanner
        -Dsonar.projectKey=YOUR_PROJECT_KEY
-	   -Dsonar.login=YOUR_PROJECT_LOGIN
+       -Dsonar.login=YOUR_PROJECT_LOGIN
 ```
